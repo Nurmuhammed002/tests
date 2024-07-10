@@ -7,7 +7,6 @@ class SuperHero:
         self.superpower = superpower
         self.health_points = health_points
         self.catchphrase = catchphrase
-
     def display_name(self):
         print(f"Hero's name: {self.name}")
 
